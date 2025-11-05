@@ -1,4 +1,4 @@
-![S1YPEX1 GIF](https://raw.githubusercontent.com/s1ypex1/s1ypex1/main/image/S1YPEX1.gif)
+![S1YPEX1 GIF](image/s1ypex1.gif)
 
 Tenho 20 anos e sou um entusiasta da tecnologia.
 Minha jornada começou com uma grande paixão por desenvolvimento de jogos, o que me inspirou a entrar de cabeça no mundo da programação.
