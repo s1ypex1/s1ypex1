@@ -1,6 +1,8 @@
+![S1YPEX1 GIF](https://raw.githubusercontent.com/s1ypex1/s1ypex1/main/image/S1YPEX1.gif)
+
 Tenho 20 anos e sou um entusiasta da tecnologia.
 Minha jornada começou com uma grande paixão por desenvolvimento de jogos, o que me inspirou a entrar de cabeça no mundo da programação.
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando no front-end.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando no front-end, focado em transformar código em experiências visuais e interativas.
 
 ---
 
