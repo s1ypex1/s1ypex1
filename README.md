@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="image/s1ypex1.gif" alt="S1YPEX1 GIF">
+  <img src="image/diegosantiago.gif" alt="DIEGOSANTIAGO GIF">
 </p>
+
+---
 
 Tenho 20 anos e sou um entusiasta da tecnologia.
 Minha jornada começou com uma grande paixão por desenvolvimento de jogos, o que me inspirou a entrar de cabeça no mundo da programação.
