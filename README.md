@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="image/welcome" alt="WELCOME GIF">
+</p>
+
+<p align="center">
   <img src="image/diegosantiago.gif" alt="DIEGOSANTIAGO GIF">
 </p>
 
