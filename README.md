@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="image/diegosantiago.gif" alt="DIEGOSANTIAGO GIF">
-</p>
-
 ---
 
 Tenho 20 anos e sou um entusiasta da tecnologia.
